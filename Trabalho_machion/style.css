@@ -1,0 +1,16 @@
+#titulo {
+    color: green;
+    text-align: center;
+    }
+
+.professor {
+    border-radius: 10px; /* Altere o valor para ajustar o raio das bordas */
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.professora {
+    border-radius: 10px; /* Altere o valor para ajustar o raio das bordas */
+    background-color: #ec3939;
+    padding: 20px;
+}
